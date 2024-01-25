@@ -1,7 +1,3 @@
-# Python-for-Data-Science-
-Python for Data Science 
-
-
 # Python for Data Science 🐍📊
 
 Welcome to the Python for Data Science repository! 🚀 Explore the power of Python in the world of data analysis, machine learning, and beyond. Whether you're just starting out or a seasoned data enthusiast, this repository is designed to guide you through every step of the journey.
